@@ -1,6 +1,7 @@
 {
     "jupyter.debugJustMyCode": false,
     "cSpell.words": [
+        "npartitions",
         "typetracer"
     ]
 }
