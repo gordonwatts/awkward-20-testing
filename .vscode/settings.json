@@ -1,7 +1,13 @@
 {
     "jupyter.debugJustMyCode": false,
     "cSpell.words": [
+        "antipflow",
+        "highlevelgraph",
+        "histplot",
+        "mplhep",
+        "ninputs",
         "npartitions",
+        "treeme",
         "typetracer"
     ]
 }
