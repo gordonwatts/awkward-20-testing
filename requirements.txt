@@ -3,3 +3,5 @@ dask-awkward
 dask-histogram
 mplhep
 uproot
+coffea
+dask[distributed]

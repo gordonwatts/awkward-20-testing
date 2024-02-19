@@ -1,13 +1,18 @@
 {
-    "jupyter.debugJustMyCode": false,
-    "cSpell.words": [
-        "antipflow",
-        "highlevelgraph",
-        "histplot",
-        "mplhep",
-        "ninputs",
-        "npartitions",
-        "treeme",
-        "typetracer"
-    ]
+  "jupyter.debugJustMyCode": false,
+  "cSpell.words": [
+    "antipflow",
+    "Blockwise",
+    "coffea",
+    "highlevelgraph",
+    "histplot",
+    "mplhep",
+    "nanoevents",
+    "ninputs",
+    "npartitions",
+    "pushdown",
+    "toposort",
+    "treeme",
+    "typetracer"
+  ]
 }
