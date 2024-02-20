@@ -6,6 +6,7 @@
     "coffea",
     "highlevelgraph",
     "histplot",
+    "minio",
     "mplhep",
     "nanoevents",
     "ninputs",
