@@ -5,3 +5,5 @@ mplhep
 uproot
 coffea
 dask[distributed]
+graphviz
+pygraphviz
